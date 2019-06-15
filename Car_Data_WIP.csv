@@ -1,0 +1,20 @@
+Record_ID,Name,MPG,Power,Storage_Capacity,Towing,Type,City,State
+1,Ben,9,6,6,8,SUV,Burbank,CA
+2,Patrick,9,7,6,5,Sedan,Burbank,CA
+3,Matt,10,5,7,1,Sedan,Sherman Oaks,CA
+4,Jared,5,1,6,1,Sedan,Santa Monica,CA
+5,Andrew,7,8,9,2,Sedan,Burbank,CA
+6,Aaron,9,6,10,8,Truck,North Hollywood,CA
+7,Tom,7,7,7,3,Sedan,Torrance,CA
+8,Philip,6,8,8,5,SUV,Burbank,CA
+9,Eli,7,5,8,3,Truck,Whittier,CA
+10,Kirk,8,7,7,1,SUV,Santa Clarita,CA
+11,Deshaun,9,4,5,1,Sedan,Pasadena,CA
+12,Derek,8,9,2,1,Sedan,Century City,CA
+13,Drew,10,5,6,1,Sedan,Burbank,CA
+14,Case,8,5,3,1,Sedan,Highland Park,CA
+15,Dak,10,8,6,1,SUV,Pasadena,CA
+16,Matthew,8,8,8,5,SUV,Burbank,CA
+17,Baker,9,8,6,2,Sedan,Van Nuys,CA
+18,Russell,8,6,7,1,SUV,Los Angeles,CA
+19,Cam,10,3,5,3,Sedan,Long Beach,CA
